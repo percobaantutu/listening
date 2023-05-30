@@ -115,7 +115,7 @@ header svg {
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  /* height: 100vh; */
+  height: 100vh;
   top: 200%;
   left: 0;
   right: 0;
